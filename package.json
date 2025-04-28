@@ -1,0 +1,15 @@
+{
+  "name": "dishdash",
+  "version": "1.0.0",
+  "description": "recipe app",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Aditya Jain",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.14.4",
+    "parcel": "^2.14.4"
+  }
+}
